@@ -1,16 +1,17 @@
 **CLONE REPO**
 -----------------------------
-**INIT EXPRESS**: npm init -y
+**INIT EXPRESS**: 
+	npm init -y
 
 **INSTALL DEPENDENCIES**
 
-  Express: npm i express
+	npm i express
 
-	PG: npn i pg
+	npn i pg
 
-	PG-FORMAT: npm i pg-format
+	npm i pg-format
 
-**ADD TYPE: MODULE & "dev": "index.js"** ... IN  pakage.json
+**ADD "type: module" & "dev": "index.js"** ... IN  pakage.json
 
 -------------------------------------------
 
