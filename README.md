@@ -16,3 +16,19 @@
 -------------------------------------------
 
 ***RUN WHIT: NPM RUN DEV***
+
+**CRETATE DATABASE**
+
+This project uses PostgreSQL.
+
+📦 Restore with pgAdmin
+
+Open pgAdmin.
+
+Create a new empty database (e.g. joyas_db).
+
+Right–click on the database → select Restore.
+
+Choose the file DataBase/joyas_backup.backup.
+
+Click Restore to start the process.
