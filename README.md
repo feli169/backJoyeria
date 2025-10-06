@@ -11,7 +11,7 @@
 
 	npm i pg-format
 
-**ADD "type: module" & "dev": "index.js"** ... IN  pakage.json
+**ADD "type: module" & "dev": "src/index.js"** ... IN  pakage.json
 
 -------------------------------------------
 
